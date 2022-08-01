@@ -6,12 +6,6 @@ Directory fuzzer for web applications
 
 
 
-## Information
-
-
-[![dfuzz Name](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-[![1.0.0 Version](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-
 
 
 ## Common Switches
