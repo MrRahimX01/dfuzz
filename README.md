@@ -6,7 +6,7 @@ Directory fuzzer for web applications
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://i.ibb.co/8K0H3zX/Screenshot-4.png)
 
 
 
